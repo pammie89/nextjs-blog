@@ -89,3 +89,7 @@
     flex-direction: column;
   }
 }
+
+.profilePic {
+  border-radius: 50%;
+}
